@@ -1,0 +1,24 @@
+@font-face{
+    font-family: 'MR';
+    src: url(../fonts/Montsterrat/Montserrat-Regular.ttf);
+}
+@font-face{
+    font-family: 'MB';
+    src: url(../fonts/Montsterrat/Montserrat-Bold.ttf);
+}
+@font-face{
+    font-family: 'ProductSans';
+    src: url(../fonts/ProductSans/ProductSans.ttf);
+}
+@font-face{
+    font-family: 'Mer_B';
+    src: url(../fonts/Merienda/Merienda-Bold.ttf);
+}
+@font-face{
+    font-family: 'Mer_m';
+    src: url(../fonts/Merienda/Merienda-Medium.ttf);
+}
+@font-face{
+    font-family: 'Mer_R';
+    src: url(../fonts/Merienda/Merienda-Regular.ttf);
+}
