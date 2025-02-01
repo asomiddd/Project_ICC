@@ -118,8 +118,12 @@ body {
     color: #4bfcff;
 }
 @media(max-width:550px) {
-    .header_title , .back__btn{
+    .header_title , {
         font-size: 14px;
+        margin-left: 10px;
+    }
+    .back__btn{
+        font-size: 16px;
     }
     .hh__tt, .hh__link{
         width: max-content;
@@ -127,6 +131,8 @@ body {
     }
     .header_nav{
         height: 80px;
+        display: flex;
+        justify-content: space-between;
     }
     .bold_text{
         display: block;
