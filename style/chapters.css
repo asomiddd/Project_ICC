@@ -128,4 +128,7 @@ body {
     .header_nav{
         height: 80px;
     }
+    .bold_text{
+        display: block;
+    }
 }
