@@ -117,7 +117,7 @@ body {
 .back__btn:hover{
     color: #4bfcff;
 }
-@media(max-width:400px) {
+@media(max-width:550px) {
     .header_title , .back__btn{
         font-size: 14px;
     }
